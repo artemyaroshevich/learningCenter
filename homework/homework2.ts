@@ -25,6 +25,14 @@ let street = 'Central'
 let house = '18'
 console.log('Full address: ' + street + ' ' + house)
 
+//task6
+let randomVariable = 18
+let randomVariableString = Number('18')
+console.log("Task 6 "  )
+console.log(randomVariable === randomVariableString)
+
+
+
 //Task7
 let randomString = '20'
 let convertToNumber = Number(randomString)
